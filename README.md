@@ -80,3 +80,15 @@ a repo with youtube htmls of this incident using Vorapis V3
 ![Nine Vicious - Topic](ninevicious.png)
 
 [ninevicious.html](ninevicious.html)
+
+## Destroy Lonely - Topic
+
+![Destroy Lonely - Topic](lonely.png)
+
+[lonely.html](lonely.html)
+
+## BLACKPINK - Topic
+
+![BLACKPINK - Topic](blackpink.png)
+
+[blackpink.html](blackpink.html)
