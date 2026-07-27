@@ -21,6 +21,12 @@ a repo with youtube htmls of this incident using Vorapis V3
 
 [drake.html](drake.html)
 
+## Kendrick Lamar - Topic
+
+![Kendrick Lamar - Topic](kendrick.png)
+
+[kendrick.html](kendrick.html)
+
 ## Tyler, The Creator - Topic
 
 ![Tyler, The Creator - Topic](tylerthecreator.png)
